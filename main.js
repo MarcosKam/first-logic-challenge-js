@@ -19,7 +19,7 @@ if (xpAmount >= 0 && xpAmount <= 1000) {
 } else if (xpAmount >= 10000) {
   tier = "Radiant";
 } else {
-  tier = "Get Good, baby";
+  tier = "Get Good";
 }
 
 console.log(
